@@ -1,0 +1,178 @@
+[
+  {
+    "eno": 101 ,
+    "firstName": "sai" ,
+    "lastName": "ram" ,
+    "department": "Accounts" ,
+    "age": 25 ,
+    "address": {
+      "postCode": "RM6 6DL" ,
+      "firstLine": "lane1" ,
+      "secondLine": "lane2"
+    }},
+  {
+    "eno" : 102,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "sales",
+    "age" : 25,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 103,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "Accounts",
+    "age" : 25,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 104,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "marketing",
+    "age" : 25,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 105,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "Accounts",
+    "age" : 27,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 106,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "marketing",
+    "age" : 45,
+    "address" : {
+      "postCode" : "IG11 7GS",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 107,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "sales",
+    "age" : 25,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 108,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "sales",
+    "age" : 25,
+    "address" : {
+      "postCode" : "RM6 5AB",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 109,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "marketing",
+    "age" : 32,
+    "address" : {
+      "postCode" : "RM6 6DL",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 110,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "Accounts",
+    "age" : 45,
+    "address" : {
+      "postCode" : "RM6 5AB",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 111,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "front office",
+    "age" : 20,
+    "address" : {
+      "postCode" : "RM6 5AB",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 112,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "sales",
+    "age" : 42,
+    "address" : {
+      "postCode" : "IG11 7GS",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 113,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "front office",
+    "age" : 37,
+    "address" : {
+      "postCode" : "RM6 5AB",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 114,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "front office",
+    "age" : 34,
+    "address" : {
+      "postCode" : "IG11 7GS",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 115,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "Accounts",
+    "age" : 43,
+    "address" : {
+      "postCode" : "IG11 7GS",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }},
+  {
+    "eno" : 116,
+    "firstName" : "sai",
+    "lastName" : "ram",
+    "department" : "sales",
+    "age" : 26,
+    "address" : {
+      "postCode" : "RM6 5AB",
+      "firstLine" : "lane1",
+      "secondLine" : "lane2"
+    }
+    }]
