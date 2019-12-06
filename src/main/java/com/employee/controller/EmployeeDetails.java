@@ -39,9 +39,9 @@ public class EmployeeDetails {
 
     }
 
-    public static List<Employee> getEmployeeId(List<Employee> employees) {
+    public static List<Integer> getEmployeeId(List<Employee> employees) {
 
-        return employees.stream().filter( e -> e.getAddress().getPostCode().equals( "RM6 5AB" ) ).collect( Collectors.toList() );
+        return employees.stream().filter( e -> e.getAddress().getPostCode().equals( "RM6 5AB" ) ).map( e->e.getEno() ).collect( Collectors.toList() );
 
     }
 
